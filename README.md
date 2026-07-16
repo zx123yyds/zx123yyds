@@ -24,23 +24,31 @@
 
 <p align="center">
   <a href="https://github.com/zx123yyds/02_portly">
-    <img src="https://raw.githubusercontent.com/zx123yyds/02_portly/main/docs/assets/portly-overview.png" width="410" alt="Portly macOS 菜单栏端口管理界面">
+    <img src="https://raw.githubusercontent.com/zx123yyds/02_portly/main/docs/assets/portly-overview.png" width="480" alt="Portly macOS 菜单栏端口管理界面">
   </a>
 </p>
 
 **技术栈**：Electron · React · Vite · TypeScript<br>
 **平台**：macOS · Apple Silicon
 
-[Repository](https://github.com/zx123yyds/02_portly) · [Latest Release](https://github.com/zx123yyds/02_portly/releases/latest)
+[![Repo](https://img.shields.io/badge/Repository-02__portly-181717?logo=github)](https://github.com/zx123yyds/02_portly)
+[![Release](https://img.shields.io/badge/Latest%20Release-v0.1.0-blue?logo=github)](https://github.com/zx123yyds/02_portly/releases/latest)
 
 ### ⚽ Football Cup — 2026 世界杯赛程与日历订阅
 
 > 面向北京时间查看 2026 世界杯赛程，数据自动更新，支持按日期、阶段、小组、球队、城市和场馆查找比赛，并生成可订阅的 ICS 日历。
 
+<p align="center">
+  <a href="https://01-football.vercel.app">
+    <img src="https://raw.githubusercontent.com/zx123yyds/01_football/main/docs/assets/world-cup-schedule-preview.png" width="720" alt="2026 世界杯赛程与日历订阅网站预览">
+  </a>
+</p>
+
 **技术栈**：HTML · CSS · JavaScript · GitHub Actions<br>
 **部署**：Vercel
 
-[Repository](https://github.com/zx123yyds/01_football) · [Live Site](https://01-football.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-01__football-181717?logo=github)](https://github.com/zx123yyds/01_football)
+[![Live](https://img.shields.io/badge/Live%20Site-01--football.vercel.app-000000?logo=vercel)](https://01-football.vercel.app)
 
 ---
 
