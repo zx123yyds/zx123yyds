@@ -1,6 +1,6 @@
 <div align="center">
 
-# 你好，我是 zx123yyds
+# 你好👋，我是 zx123yyds
 
 ### AI-Native 独立开发者 · 在做一些实用、真实的小工具
 
@@ -8,10 +8,11 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-zx123yyds-181717?style=for-the-badge&logo=github)](https://github.com/zx123yyds)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![AI Native](https://img.shields.io/badge/AI--Native-Building-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-
+[![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=for-the-badge)](https://github.com/zx123yyds)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Codex](https://img.shields.io/badge/Codex_CLI-24292F?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/openai/codex)
 </div>
 
 ---
@@ -52,41 +53,10 @@
 
 ---
 
-## 我如何与 AI 协作
-
-- **从真实上下文开始**：先读 README、文档、设计稿和关键源码，让 AI 基于项目现状工作。
-- **把链路做完整**：不只生成界面，也补齐数据、构建、部署和前端读取之间缺失的环节。
-- **让验证匹配风险**：样式改动检查桌面与移动端，主进程、数据链路和发布流程跑完整测试或安装态验证。
-- **把经验变成资产**：把有效命令、排查路径、约束和验收标准沉淀为文档与可复用工作流。
-
----
-
-## 技术与方向
-
-| 日常构建 | 正在深入 | 持续关注 |
-| --- | --- | --- |
-| TypeScript · React · HTML / CSS | Electron · macOS 打包发布 | AI 协作工作流 |
-| Vite · Playwright | 静态数据生成与自动更新 | 更可靠的验证与交付 |
-
----
-
-<details>
-<summary><strong>我希望这个 GitHub 持续长成什么样</strong></summary>
-
-<br>
-
-- 每个公开项目都能让人清楚知道用途，并找到运行与验证路径。
-- 每个小产品都从“能用”继续走向顺手、稳定和可靠。
-- 每个仓库都记录真实进展，不用模板感和漂亮数字掩盖问题。
-
-</details>
-
----
-
 <div align="center">
 
 **观我旧往，同我仰春**
 
-<sub>📮 想聊聊？欢迎通过 [Issues](https://github.com/zx123yyds/zx123yyds/issues) 找我。</sub>
+*📮 想聊聊？欢迎通过 [Issues](https://github.com/zx123yyds/zx123yyds/issues) 找我。*
 
 </div>
